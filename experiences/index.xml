@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Minimal</title>
+    <link>http://example.com/experiences/</link>
+    <description>Recent content in Experiences on Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Apr 2018 19:29:17 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.com/experiences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quartzy, Inc</title>
+      <link>http://example.com/experiences/quartzy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/experiences/quartzy/</guid>
+      <description>Throat singer</description>
+    </item>
+    
+    <item>
+      <title>Self-Employed</title>
+      <link>http://example.com/experiences/self-employed/</link>
+      <pubDate>Wed, 04 Apr 2018 19:29:17 -0700</pubDate>
+      
+      <guid>http://example.com/experiences/self-employed/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, velit voluptatem nobis fugit facilis voluptatum aspernatur quae eos. Nobis perferendis vero molestias qui. Nesciunt reiciendis iste explicabo debitis illo. Nemo!</description>
+    </item>
+    
+  </channel>
+</rss>

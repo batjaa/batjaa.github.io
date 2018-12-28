@@ -3,18 +3,179 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>http://example.com/iam/hobbyist-photographer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/experiences/quartzy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/iam/software-engineer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/lifestyle/how-to-use-social-media-to-hit-your-goal/</loc>
+    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/lifestyle/4-am/</loc>
+    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolio/gertee/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/travel/one-bag-travel/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolio/quartzy/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/honors/toyota/</loc>
+    <lastmod>2018-12-24T11:41:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/skills/language/</loc>
+    <lastmod>2018-12-24T11:38:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/skills/programming/</loc>
+    <lastmod>2018-12-24T11:31:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/educations/must-bachelor/</loc>
+    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/lifestyle/i-live-in-my-van/</loc>
+    <lastmod>2018-04-04T19:29:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/experiences/self-employed/</loc>
+    <lastmod>2018-04-04T19:29:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.com/</loc>
+    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/</loc>
+    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/educations/</loc>
+    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/experiences/</loc>
+    <lastmod>2018-04-04T19:29:17-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/featured/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolios/featured/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/honors/</loc>
+    <lastmod>2018-12-24T11:41:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/iam/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/lifestyle/</loc>
+    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolios/mobile/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolio/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolios/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/skills/</loc>
+    <lastmod>2018-12-24T11:38:46-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/</loc>
+    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/travel/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/portfolios/web/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/iam/world-wanderer/</loc>
   </url>
   
 </urlset>

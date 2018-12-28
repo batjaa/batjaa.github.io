@@ -15,9 +15,9 @@
 // @primaryColor: #a3c664;
 // @secondaryColor: #38d3e6;
 
-// // Color Scheme 3
-// @primaryColor: #52a6b7;
-// @secondaryColor: #fe9c57;
+// Color Scheme 3
+@primaryColor: #52a6b7;
+@secondaryColor: #fe9c57;
 
 // // Color Scheme 4
 // @primaryColor: #e879ab;
@@ -26,9 +26,6 @@
 // // Color Scheme 5
 // @primaryColor: #fe9833;
 // @secondaryColor: #ffcb64;
-
-@primaryColor: #6284c5;
-@secondaryColor: #a971ae;
 
 @darkPrimaryColor: mix(@primaryColor, black, 50%);
 @lightPrimaryColor: mix(@primaryColor, white, 15%);
@@ -74,7 +71,7 @@
 @welcomeBgColor: @primaryColor;
 @welcomeUseBgImg: false;
 @welcomeBgImg: url('http://placehold.it/1200x800');
-@welcomeSectionHeight: 100%;
+@welcomeSectionHeight: 70%;
 @welcomeContentMaxWidth: none;
 @welcomePaddingTop: 0;
 @welcomeBeforeNameColor: #fff;
@@ -1348,7 +1345,8 @@ nav{
 				}
 			}
 
-			&#portfolio{
+			&#portfolio,
+			&#blog{
 				.loading-indicator{
 					position: absolute;
 					top: 90px;
@@ -1839,7 +1837,8 @@ nav{
 		margin-bottom: 0;
 	}
 
-	.section-container-wrapper .section-container section#portfolio article.ajax-portfolio-item-details .desc .left-info-col{
+	.section-container-wrapper .section-container section#portfolio article.ajax-portfolio-item-details .desc .left-info-col,
+	.section-container-wrapper .section-container section#blog article.ajax-portfolio-item-details .desc .left-info-col{
 		text-align: right;
 		
 		dl dt:after{
