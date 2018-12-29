@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Hobbyist photographer</title>
+      <title>Capturing moments</title>
       <link>http://example.com/iam/hobbyist-photographer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.com/iam/hobbyist-photographer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing systems</title>
+      <link>http://example.com/iam/software-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/iam/software-engineer/</guid>
       <description></description>
     </item>
     
@@ -27,15 +36,6 @@
       
       <guid>http://example.com/experiences/quartzy/</guid>
       <description>Throat singer</description>
-    </item>
-    
-    <item>
-      <title>Software Engineer</title>
-      <link>http://example.com/iam/software-engineer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/iam/software-engineer/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -150,7 +150,7 @@ Lipsum 11 Aliquip 10 Eiusmod 8 Consquat 6 Voluptate 4 Excepteur 2</description>
     </item>
     
     <item>
-      <title>World Wanderer</title>
+      <title>Wanderering the world</title>
       <link>http://example.com/iam/world-wanderer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

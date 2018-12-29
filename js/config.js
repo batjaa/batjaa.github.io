@@ -35,4 +35,3 @@ require.config({
 });
 
 requirejs(['js/index.js']);
-
