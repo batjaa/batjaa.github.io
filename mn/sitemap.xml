@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://batjargal.mn/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/files/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/files/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/files/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/portfolios/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/portfolios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/portfolios/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/"
+                />
+  </url>
+  
+</urlset>

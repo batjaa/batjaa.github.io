@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on Batjaa&#39;s corner</title>
+    <link>https://batjaa.com/skills/</link>
+    <description>Recent content in Skills on Batjaa&#39;s corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Dec 2018 11:38:46 -0500</lastBuildDate>
+    
+	<atom:link href="https://batjaa.com/skills/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Language</title>
+      <link>https://batjaa.com/skills/language/</link>
+      <pubDate>Mon, 24 Dec 2018 11:38:46 -0500</pubDate>
+      
+      <guid>https://batjaa.com/skills/language/</guid>
+      <description>I am a native speaker of Lipsum. Furthermore, I can speak a little bit of Aliquip, Eiusmod, Consquat, Voluptate and Excepteur.
+Lipsum 11 Aliquip 10 Eiusmod 8 Consquat 6 Voluptate 4 Excepteur 2 
+App 50 Boy 60 Cat 70 Dog 80 Egg 90 Fish 100  App 50 Boy 60 Cat 70 Dog 80 Egg 90 Fish 100  App 50 Boy 60 Cat 70 Dog 80 Egg 90 Fish 100  </description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://batjaa.com/skills/programming/</link>
+      <pubDate>Mon, 24 Dec 2018 11:31:56 -0500</pubDate>
+      
+      <guid>https://batjaa.com/skills/programming/</guid>
+      <description>I am a native speaker of Lipsum. Furthermore, I can speak a little bit of Aliquip, Eiusmod, Consquat, Voluptate and Excepteur.
+Lipsum 11 Aliquip 10 Eiusmod 8 Consquat 6 Voluptate 4 Excepteur 2</description>
+    </item>
+    
+  </channel>
+</rss>

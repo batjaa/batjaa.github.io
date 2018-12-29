@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Batjaa&#39;s corner</title>
+    <link>https://batjaa.com/categories/</link>
+    <description>Recent content in Categories on Batjaa&#39;s corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://batjaa.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Featured</title>
+      <link>https://batjaa.com/categories/featured/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>https://batjaa.com/categories/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifestyle</title>
+      <link>https://batjaa.com/categories/lifestyle/</link>
+      <pubDate>Thu, 27 Dec 2018 23:20:27 -0500</pubDate>
+      
+      <guid>https://batjaa.com/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://batjaa.com/categories/travel/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>https://batjaa.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

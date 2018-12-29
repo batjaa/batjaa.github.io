@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Files on Батжаагийн булан</title>
+    <link>https://batjargal.mn/files/</link>
+    <description>Recent content in Files on Батжаагийн булан</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://batjargal.mn/files/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
