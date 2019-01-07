@@ -3,6 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://batjargal.mn/iam/world-wanderer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/world-wanderer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/world-wanderer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/iam/software-engineer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/software-engineer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/software-engineer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/iam/hobbyist-photographer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/hobbyist-photographer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/hobbyist-photographer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/experiences/quartzy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/experiences/quartzy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/experiences/quartzy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/educations/must-bachelor/</loc>
+    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/educations/must-bachelor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/educations/must-bachelor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/blog/one-bag-travel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/blog/one-bag-travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/blog/one-bag-travel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/educations/must-master/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/educations/must-master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/educations/must-master/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/iam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/blog/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/blog/"
+                />
+  </url>
+  
+  <url>
     <loc>https://batjargal.mn/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -18,17 +160,33 @@
   </url>
   
   <url>
-    <loc>https://batjargal.mn/files/</loc>
+    <loc>https://batjargal.mn/educations/</loc>
+    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://batjaa.com/files/"
+                href="https://batjaa.com/educations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="mn"
-                href="https://batjargal.mn/files/"
+                href="https://batjargal.mn/educations/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/experiences/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/experiences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/experiences/"
                 />
   </url>
   
@@ -44,6 +202,21 @@
                 rel="alternate"
                 hreflang="mn"
                 href="https://batjargal.mn/portfolios/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjargal.mn/static/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/static/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/static/"
                 />
   </url>
   
@@ -64,6 +237,7 @@
   
   <url>
     <loc>https://batjargal.mn/</loc>
+    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

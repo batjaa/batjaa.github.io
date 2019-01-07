@@ -144,6 +144,6 @@ define(['jquery', 'hammer', 'bootstrap', 'setup', 'resize-text', 'bar-chart', 'd
 			}, 100);
 		}, 200);
 
-		window.postJs();
+		window.postLoad();
 	});
 });

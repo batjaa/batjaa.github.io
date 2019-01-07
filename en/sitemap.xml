@@ -3,15 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://batjaa.com/iam/hobbyist-photographer/</loc>
+    <loc>https://batjaa.com/skills/programming/</loc>
+    <lastmod>2018-12-24T11:31:56-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/educations/must-master/</loc>
+    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/educations/must-master/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/educations/must-master/"
+                />
   </url>
   
   <url>
     <loc>https://batjaa.com/iam/software-engineer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/software-engineer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/software-engineer/"
+                />
   </url>
   
   <url>
     <loc>https://batjaa.com/experiences/quartzy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/experiences/quartzy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/experiences/quartzy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/skills/language/</loc>
+    <lastmod>2018-12-24T11:38:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/educations/must-bachelor/</loc>
+    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/educations/must-bachelor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/educations/must-bachelor/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/experiences/fieldbook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/experiences/orbit-systems/</loc>
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/iam/hobbyist-photographer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/hobbyist-photographer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/hobbyist-photographer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/experiences/self-employed/</loc>
+    <lastmod>2018-04-04T19:29:17-07:00</lastmod>
   </url>
   
   <url>
@@ -30,8 +113,18 @@
   </url>
   
   <url>
-    <loc>https://batjaa.com/blog/travel/one-bag-travel/</loc>
+    <loc>https://batjaa.com/blog/one-bag-travel/</loc>
     <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/blog/one-bag-travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/blog/one-bag-travel/"
+                />
   </url>
   
   <url>
@@ -45,27 +138,7 @@
   </url>
   
   <url>
-    <loc>https://batjaa.com/skills/language/</loc>
-    <lastmod>2018-12-24T11:38:46-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://batjaa.com/skills/programming/</loc>
-    <lastmod>2018-12-24T11:31:56-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://batjaa.com/educations/must-bachelor/</loc>
-    <lastmod>2018-12-24T10:34:23-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://batjaa.com/blog/lifestyle/i-live-in-my-van/</loc>
-    <lastmod>2018-04-04T19:29:17-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://batjaa.com/experiences/self-employed/</loc>
     <lastmod>2018-04-04T19:29:17-07:00</lastmod>
   </url>
   
@@ -76,8 +149,37 @@
   </url>
   
   <url>
+    <loc>https://batjaa.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/iam/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/"
+                />
+  </url>
+  
+  <url>
     <loc>https://batjaa.com/</loc>
-    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+    <lastmod>2018-12-24T11:31:56-05:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="mn"
@@ -91,13 +193,19 @@
   </url>
   
   <url>
-    <loc>https://batjaa.com/iam/</loc>
-  </url>
-  
-  <url>
     <loc>https://batjaa.com/blog/</loc>
     <lastmod>2018-12-27T23:20:27-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/blog/"
+                />
   </url>
   
   <url>
@@ -119,18 +227,32 @@
     <loc>https://batjaa.com/educations/</loc>
     <lastmod>2018-12-24T10:34:23-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/educations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/educations/"
+                />
   </url>
   
   <url>
     <loc>https://batjaa.com/experiences/</loc>
     <lastmod>2018-04-04T19:29:17-07:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://batjaa.com/portfolios/featured/</loc>
-    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
-    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/experiences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/experiences/"
+                />
   </url>
   
   <url>
@@ -140,18 +262,9 @@
   </url>
   
   <url>
-    <loc>https://batjaa.com/files/</loc>
+    <loc>https://batjaa.com/portfolios/featured/</loc>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="mn"
-                href="https://batjargal.mn/files/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://batjaa.com/files/"
-                />
   </url>
   
   <url>
@@ -196,8 +309,23 @@
   
   <url>
     <loc>https://batjaa.com/skills/</loc>
-    <lastmod>2018-12-24T11:38:46-05:00</lastmod>
+    <lastmod>2018-12-24T11:31:56-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/static/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/static/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/static/"
+                />
   </url>
   
   <url>
@@ -224,6 +352,16 @@
   
   <url>
     <loc>https://batjaa.com/iam/world-wanderer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/iam/world-wanderer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/iam/world-wanderer/"
+                />
   </url>
   
   <url>

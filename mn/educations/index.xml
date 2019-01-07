@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educations on Батжаагийн булан</title>
+    <link>https://batjargal.mn/educations/</link>
+    <description>Recent content in Educations on Батжаагийн булан</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Dec 2018 10:34:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://batjargal.mn/educations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Must Bachelor</title>
+      <link>https://batjargal.mn/educations/must-bachelor/</link>
+      <pubDate>Mon, 24 Dec 2018 10:34:23 -0500</pubDate>
+      
+      <guid>https://batjargal.mn/educations/must-bachelor/</guid>
+      <description>Thesis: Nulla, Omnis Vitae Illum Molestiae Rem</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://batjargal.mn/educations/must-master/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://batjargal.mn/educations/must-master/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

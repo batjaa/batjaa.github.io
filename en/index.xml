@@ -6,18 +6,29 @@
     <description>Recent content on Batjaa&#39;s corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Dec 2018 23:20:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 11:31:56 -0500</lastBuildDate>
     
 	<atom:link href="https://batjaa.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Capturing moments</title>
-      <link>https://batjaa.com/iam/hobbyist-photographer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Programming</title>
+      <link>https://batjaa.com/skills/programming/</link>
+      <pubDate>Mon, 24 Dec 2018 11:31:56 -0500</pubDate>
       
-      <guid>https://batjaa.com/iam/hobbyist-photographer/</guid>
-      <description></description>
+      <guid>https://batjaa.com/skills/programming/</guid>
+      <description>I am familiar with JavaScript, HTML5, CSS3, PHP, Java and C#.
+JavaScript 95 HTML5 90 CSS3 90 PHP 80 Java 80 C# 75</description>
+    </item>
+    
+    <item>
+      <title>MASTER OF INFORMATION TECHNOLOGY</title>
+      <link>https://batjaa.com/educations/must-master/</link>
+      <pubDate>Mon, 24 Dec 2018 10:34:23 -0500</pubDate>
+      
+      <guid>https://batjaa.com/educations/must-master/</guid>
+      <description>Mongolian University of Science and Technology
+Thesis: Grid Computing Infrastructure Cost</description>
     </item>
     
     <item>
@@ -35,7 +46,77 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://batjaa.com/experiences/quartzy/</guid>
-      <description>Throat singer</description>
+      <description>Separated and rebuilt the frontend application in EmberJS for quartzy.com.
+ Developing end to end features that expands through multiple internal products communicating through RPC.
+ Maintains and integrates 3rd party tools and platforms for sales and marketing teams.
+ Redesigned client managing admin panel application while working and managing contractors.
+ Rebuilt the internal catalog uploading module to allow big files to be uploaded which helped the data analysis team to not be depended on engineers.</description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>https://batjaa.com/skills/language/</link>
+      <pubDate>Mon, 24 Dec 2018 11:38:46 -0500</pubDate>
+      
+      <guid>https://batjaa.com/skills/language/</guid>
+      <description>I am a native speaker of Mongolian. I can speak English and Germany fluently.
+English 9 Germany 7 Mongolian 10</description>
+    </item>
+    
+    <item>
+      <title>BACHELOR OF INFORMATION TECHNOLOGY</title>
+      <link>https://batjaa.com/educations/must-bachelor/</link>
+      <pubDate>Mon, 24 Dec 2018 10:34:23 -0500</pubDate>
+      
+      <guid>https://batjaa.com/educations/must-bachelor/</guid>
+      <description>Mongolian University of Science and Technology
+Graduated with Honors, President of Student IT Club</description>
+    </item>
+    
+    <item>
+      <title>Fieldbook, Inc</title>
+      <link>https://batjaa.com/experiences/fieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://batjaa.com/experiences/fieldbook/</guid>
+      <description> Responsible for product development, including implementing requested features and fixing bugs.
+ Fixed several bugs which were causing double requests to be sent and cut down load time by 2x.
+ Successfully implemented a worker node for processing sheets offline removed several timeout exceptions.
+ Improved test stability which had become a headache for shipment by combining several promise libraries and refactoring realtime test code.
+  </description>
+    </item>
+    
+    <item>
+      <title>Orbit Systems, Inc</title>
+      <link>https://batjaa.com/experiences/orbit-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://batjaa.com/experiences/orbit-systems/</guid>
+      <description> Developed a cross-browser compatible Project Management Web application.
+ 5x faster than the previous version and has a more friendly user interface with great user experience in mind.
+ Using JEE, Spring framework and Hibernate with Oracle Database in backend
+ Supports real-time updates using WebSockets.
+  </description>
+    </item>
+    
+    <item>
+      <title>Capturing moments</title>
+      <link>https://batjaa.com/iam/hobbyist-photographer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://batjaa.com/iam/hobbyist-photographer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Employed</title>
+      <link>https://batjaa.com/experiences/self-employed/</link>
+      <pubDate>Wed, 04 Apr 2018 19:29:17 -0700</pubDate>
+      
+      <guid>https://batjaa.com/experiences/self-employed/</guid>
+      <description>Designed, developed, and deployed a nationwide Railway Monitoring system using C#, providing efficient solution to share workspace between server-client and data manipulation for better storage.
+ Designed and developed a Loan management system using C# which supports multiple companies loans and different asset types.
+ Designed and developed a stock trading platform in C# while handling full stock portfolio management and numerous calculations of stock market indicators. It uses Java web crawler for tracking stock price.</description>
     </item>
     
     <item>
@@ -73,10 +154,10 @@ Ponderum mediocrem mea at.</description>
     
     <item>
       <title>One Bag Travel</title>
-      <link>https://batjaa.com/blog/travel/one-bag-travel/</link>
+      <link>https://batjaa.com/blog/one-bag-travel/</link>
       <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
       
-      <guid>https://batjaa.com/blog/travel/one-bag-travel/</guid>
+      <guid>https://batjaa.com/blog/one-bag-travel/</guid>
       <description>Details of Portfolio Item   Free Layout Example
  Client ABC Company Category Web Design Date September, 2013 Skills HTML CSS Photoshop Illustrator   Figure 1 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quo velit id adipisci.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, autem atque ullam optio iste sapiente asperiores qui nam id illum. Dicta, quis, vel provident necessitatibus reiciendis et aspernatur natus aut!</description>
     </item>
@@ -101,36 +182,6 @@ Ponderum mediocrem mea at.</description>
     </item>
     
     <item>
-      <title>Language</title>
-      <link>https://batjaa.com/skills/language/</link>
-      <pubDate>Mon, 24 Dec 2018 11:38:46 -0500</pubDate>
-      
-      <guid>https://batjaa.com/skills/language/</guid>
-      <description>I am a native speaker of Lipsum. Furthermore, I can speak a little bit of Aliquip, Eiusmod, Consquat, Voluptate and Excepteur.
-Lipsum 11 Aliquip 10 Eiusmod 8 Consquat 6 Voluptate 4 Excepteur 2 
-App 50 Boy 60 Cat 70 Dog 80 Egg 90 Fish 100  App 50 Boy 60 Cat 70 Dog 80 Egg 90 Fish 100  App 50 Boy 60 Cat 70 Dog 80 Egg 90 Fish 100  </description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://batjaa.com/skills/programming/</link>
-      <pubDate>Mon, 24 Dec 2018 11:31:56 -0500</pubDate>
-      
-      <guid>https://batjaa.com/skills/programming/</guid>
-      <description>I am a native speaker of Lipsum. Furthermore, I can speak a little bit of Aliquip, Eiusmod, Consquat, Voluptate and Excepteur.
-Lipsum 11 Aliquip 10 Eiusmod 8 Consquat 6 Voluptate 4 Excepteur 2</description>
-    </item>
-    
-    <item>
-      <title>Must Bachelor</title>
-      <link>https://batjaa.com/educations/must-bachelor/</link>
-      <pubDate>Mon, 24 Dec 2018 10:34:23 -0500</pubDate>
-      
-      <guid>https://batjaa.com/educations/must-bachelor/</guid>
-      <description>Thesis: Nulla, Omnis Vitae Illum Molestiae Rem</description>
-    </item>
-    
-    <item>
       <title>I Live in My Van</title>
       <link>https://batjaa.com/blog/lifestyle/i-live-in-my-van/</link>
       <pubDate>Wed, 04 Apr 2018 19:29:17 -0700</pubDate>
@@ -138,15 +189,6 @@ Lipsum 11 Aliquip 10 Eiusmod 8 Consquat 6 Voluptate 4 Excepteur 2</description>
       <guid>https://batjaa.com/blog/lifestyle/i-live-in-my-van/</guid>
       <description>Details of Portfolio Item   Free Layout Example
  Client ABC Company Category Web Design Date September, 2013 Skills HTML CSS Photoshop Illustrator   Figure 1 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quo velit id adipisci.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, autem atque ullam optio iste sapiente asperiores qui nam id illum. Dicta, quis, vel provident necessitatibus reiciendis et aspernatur natus aut!</description>
-    </item>
-    
-    <item>
-      <title>Self-Employed</title>
-      <link>https://batjaa.com/experiences/self-employed/</link>
-      <pubDate>Wed, 04 Apr 2018 19:29:17 -0700</pubDate>
-      
-      <guid>https://batjaa.com/experiences/self-employed/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, velit voluptatem nobis fugit facilis voluptatum aspernatur quae eos. Nobis perferendis vero molestias qui. Nesciunt reiciendis iste explicabo debitis illo. Nemo!</description>
     </item>
     
     <item>
