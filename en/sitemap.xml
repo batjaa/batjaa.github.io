@@ -108,6 +108,36 @@
   </url>
   
   <url>
+    <loc>https://batjaa.com/blog/i-live-in-my-van/</loc>
+    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/blog/i-live-in-my-van/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/blog/i-live-in-my-van/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://batjaa.com/blog/one-bag-travel/</loc>
+    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/blog/one-bag-travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/blog/one-bag-travel/"
+                />
+  </url>
+  
+  <url>
     <loc>https://batjaa.com/portfolio/gertee/</loc>
     <lastmod>2018-12-27T10:02:56-05:00</lastmod>
   </url>
@@ -138,7 +168,7 @@
   </url>
   
   <url>
-    <loc>https://batjaa.com/blog/lifestyle/i-live-in-my-van/</loc>
+    <loc>https://batjaa.com/blog/lifestyle/i-live-in-my-van-2/</loc>
     <lastmod>2018-04-04T19:29:17-07:00</lastmod>
   </url>
   
@@ -257,8 +287,18 @@
   
   <url>
     <loc>https://batjaa.com/categories/featured/</loc>
-    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
+    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/categories/featured/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/categories/featured/"
+                />
   </url>
   
   <url>
@@ -277,6 +317,16 @@
     <loc>https://batjaa.com/categories/lifestyle/</loc>
     <lastmod>2018-12-27T23:20:27-05:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="https://batjargal.mn/categories/lifestyle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://batjaa.com/categories/lifestyle/"
+                />
   </url>
   
   <url>
