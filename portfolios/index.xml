@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Batjaa&#39;s corner</title>
+    <link>/portfolios/</link>
+    <description>Recent content in Portfolios on Batjaa&#39;s corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Dec 2018 10:02:56 -0500</lastBuildDate>
+    
+	<atom:link href="/portfolios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Featured</title>
+      <link>/portfolios/featured/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>/portfolios/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>/portfolios/mobile/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>/portfolios/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/portfolios/web/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>/portfolios/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

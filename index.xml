@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Batjaa&#39;s corner</title>
+    <link>/</link>
+    <description>Recent content on Batjaa&#39;s corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Dec 2018 11:31:56 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming</title>
+      <link>/skills/programming/</link>
+      <pubDate>Mon, 24 Dec 2018 11:31:56 -0500</pubDate>
+      
+      <guid>/skills/programming/</guid>
+      <description>I am familiar with JavaScript, HTML5, CSS3, PHP, Java and C#.
+JavaScript 95 HTML5 90 CSS3 90 PHP 80 Java 80 C# 75</description>
+    </item>
+    
+    <item>
+      <title>MASTER OF INFORMATION TECHNOLOGY</title>
+      <link>/educations/must-master/</link>
+      <pubDate>Mon, 24 Dec 2018 10:34:23 -0500</pubDate>
+      
+      <guid>/educations/must-master/</guid>
+      <description>Mongolian University of Science and Technology
+Thesis: Grid Computing Infrastructure Cost</description>
+    </item>
+    
+    <item>
+      <title>Designing systems</title>
+      <link>/iam/software-engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/iam/software-engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quartzy, Inc</title>
+      <link>/experiences/quartzy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/experiences/quartzy/</guid>
+      <description>Separated and rebuilt the frontend application in EmberJS for quartzy.com.
+ Developing end to end features that expands through multiple internal products communicating through RPC.
+ Maintains and integrates 3rd party tools and platforms for sales and marketing teams.
+ Redesigned client managing admin panel application while working and managing contractors.
+ Rebuilt the internal catalog uploading module to allow big files to be uploaded which helped the data analysis team to not be depended on engineers.</description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>/skills/language/</link>
+      <pubDate>Mon, 24 Dec 2018 11:38:46 -0500</pubDate>
+      
+      <guid>/skills/language/</guid>
+      <description>I am a native speaker of Mongolian. I can speak English and Germany fluently.
+English 9 Germany 7 Mongolian 10</description>
+    </item>
+    
+    <item>
+      <title>BACHELOR OF INFORMATION TECHNOLOGY</title>
+      <link>/educations/must-bachelor/</link>
+      <pubDate>Mon, 24 Dec 2018 10:34:23 -0500</pubDate>
+      
+      <guid>/educations/must-bachelor/</guid>
+      <description>Mongolian University of Science and Technology
+Graduated with Honors, President of Student IT Club</description>
+    </item>
+    
+    <item>
+      <title>Fieldbook, Inc</title>
+      <link>/experiences/fieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/experiences/fieldbook/</guid>
+      <description> Responsible for product development, including implementing requested features and fixing bugs.
+ Fixed several bugs which were causing double requests to be sent and cut down load time by 2x.
+ Successfully implemented a worker node for processing sheets offline removed several timeout exceptions.
+ Improved test stability which had become a headache for shipment by combining several promise libraries and refactoring realtime test code.
+  </description>
+    </item>
+    
+    <item>
+      <title>Orbit Systems, Inc</title>
+      <link>/experiences/orbit-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/experiences/orbit-systems/</guid>
+      <description> Developed a cross-browser compatible Project Management Web application.
+ 5x faster than the previous version and has a more friendly user interface with great user experience in mind.
+ Using JEE, Spring framework and Hibernate with Oracle Database in backend
+ Supports real-time updates using WebSockets.
+  </description>
+    </item>
+    
+    <item>
+      <title>Capturing moments</title>
+      <link>/iam/hobbyist-photographer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/iam/hobbyist-photographer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Employed</title>
+      <link>/experiences/self-employed/</link>
+      <pubDate>Wed, 04 Apr 2018 19:29:17 -0700</pubDate>
+      
+      <guid>/experiences/self-employed/</guid>
+      <description>Designed, developed, and deployed a nationwide Railway Monitoring system using C#, providing efficient solution to share workspace between server-client and data manipulation for better storage.
+ Designed and developed a Loan management system using C# which supports multiple companies loans and different asset types.
+ Designed and developed a stock trading platform in C# while handling full stock portfolio management and numerous calculations of stock market indicators. It uses Java web crawler for tracking stock price.</description>
+    </item>
+    
+    <item>
+      <title>How to Use Social Media to Hit Your Goal</title>
+      <link>/blog/lifestyle/how-to-use-social-media-to-hit-your-goal/</link>
+      <pubDate>Thu, 27 Dec 2018 23:20:27 -0500</pubDate>
+      
+      <guid>/blog/lifestyle/how-to-use-social-media-to-hit-your-goal/</guid>
+      <description>Details of Portfolio Item   Vimeo Video with Project Info on the Right
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore harum id magni possimus inventore! Qui, voluptate excepturi ea cumque quam quia soluta blanditiis maxime quae praesentium asperiores eius voluptatem nesciunt!
+Fugit, sapiente aperiam excepturi itaque soluta nisi quia quod doloribus aspernatur iure. Inventore, assumenda, fugit earum aspernatur doloremque necessitatibus quos dolore voluptatum!
+Ponderum mediocrem mea at.</description>
+    </item>
+    
+    <item>
+      <title>4 Am</title>
+      <link>/blog/lifestyle/4-am/</link>
+      <pubDate>Thu, 27 Dec 2018 10:03:34 -0500</pubDate>
+      
+      <guid>/blog/lifestyle/4-am/</guid>
+      <description>Details of Portfolio Item   Free Layout Example
+ Client ABC Company Category Web Design Date September, 2013 Skills HTML CSS Photoshop Illustrator   Figure 1 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quo velit id adipisci.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, autem atque ullam optio iste sapiente asperiores qui nam id illum. Dicta, quis, vel provident necessitatibus reiciendis et aspernatur natus aut!</description>
+    </item>
+    
+    <item>
+      <title>I live in my van</title>
+      <link>/blog/i-live-in-my-van/</link>
+      <pubDate>Thu, 27 Dec 2018 10:03:34 -0500</pubDate>
+      
+      <guid>/blog/i-live-in-my-van/</guid>
+      <description>It’s been a year since I moved into my vanAt first I was little bit shy about my life style. Most of the people who hear it at the first time would raise an eyebrow and ask “What?” with other questions following. Now, I’m more used to that or it became easier since most of the people who I know, know my life style.
+During the last era of time, the usual norm of work and life has changed a lot.</description>
+    </item>
+    
+    <item>
+      <title>One bag travel</title>
+      <link>/blog/one-bag-travel/</link>
+      <pubDate>Thu, 27 Dec 2018 10:03:34 -0500</pubDate>
+      
+      <guid>/blog/one-bag-travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gertee app</title>
+      <link>/portfolio/gertee/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>/portfolio/gertee/</guid>
+      <description>Details of Portfolio Item   Free Layout Example
+ Client ABC Company Category Web Design Date September, 2013 Skills HTML CSS Photoshop Illustrator   Figure 1 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quo velit id adipisci.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, autem atque ullam optio iste sapiente asperiores qui nam id illum. Dicta, quis, vel provident necessitatibus reiciendis et aspernatur natus aut!</description>
+    </item>
+    
+    <item>
+      <title>One Bag Travel 2</title>
+      <link>/blog/one-bag-travel/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>/blog/one-bag-travel/</guid>
+      <description>Details of Portfolio Item   Free Layout Example
+ Client ABC Company Category Web Design Date September, 2013 Skills HTML CSS Photoshop Illustrator   Figure 1 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quo velit id adipisci.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, autem atque ullam optio iste sapiente asperiores qui nam id illum. Dicta, quis, vel provident necessitatibus reiciendis et aspernatur natus aut!</description>
+    </item>
+    
+    <item>
+      <title>Quartzy</title>
+      <link>/portfolio/quartzy/</link>
+      <pubDate>Thu, 27 Dec 2018 10:02:56 -0500</pubDate>
+      
+      <guid>/portfolio/quartzy/</guid>
+      <description>Details of Portfolio Item   Free Layout Example
+ Client ABC Company Category Web Design Date September, 2013 Skills HTML CSS Photoshop Illustrator   Figure 1 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quo velit id adipisci.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, autem atque ullam optio iste sapiente asperiores qui nam id illum. Dicta, quis, vel provident necessitatibus reiciendis et aspernatur natus aut!</description>
+    </item>
+    
+    <item>
+      <title>Toyota</title>
+      <link>/honors/toyota/</link>
+      <pubDate>Mon, 24 Dec 2018 11:41:19 -0500</pubDate>
+      
+      <guid>/honors/toyota/</guid>
+      <description>Insert Lead paragraph here.**</description>
+    </item>
+    
+    <item>
+      <title>I Live in My Van 2</title>
+      <link>/blog/lifestyle/i-live-in-my-van-2/</link>
+      <pubDate>Wed, 04 Apr 2018 19:29:17 -0700</pubDate>
+      
+      <guid>/blog/lifestyle/i-live-in-my-van-2/</guid>
+      <description>Details of Portfolio Item   Free Layout Example
+ Client ABC Company Category Web Design Date September, 2013 Skills HTML CSS Photoshop Illustrator   Figure 1 - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur, quo velit id adipisci.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, autem atque ullam optio iste sapiente asperiores qui nam id illum. Dicta, quis, vel provident necessitatibus reiciendis et aspernatur natus aut!</description>
+    </item>
+    
+    <item>
+      <title>Wanderering the world</title>
+      <link>/iam/world-wanderer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/iam/world-wanderer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

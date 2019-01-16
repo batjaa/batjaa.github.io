@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Батжаагийн булан</title>
-    <link>https://batjargal.mn/iam/</link>
+    <link>/mn/iam/</link>
     <description>Recent content on Батжаагийн булан</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://batjargal.mn/iam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mn/iam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Дэлхиигээр аялагч</title>
-      <link>https://batjargal.mn/iam/world-wanderer/</link>
+      <link>/mn/iam/world-wanderer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://batjargal.mn/iam/world-wanderer/</guid>
+      <guid>/mn/iam/world-wanderer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Програм хөгжүүлэгч</title>
-      <link>https://batjargal.mn/iam/software-engineer/</link>
+      <link>/mn/iam/software-engineer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://batjargal.mn/iam/software-engineer/</guid>
+      <guid>/mn/iam/software-engineer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Сүүдэр буулгагч</title>
-      <link>https://batjargal.mn/iam/hobbyist-photographer/</link>
+      <link>/mn/iam/hobbyist-photographer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://batjargal.mn/iam/hobbyist-photographer/</guid>
+      <guid>/mn/iam/hobbyist-photographer/</guid>
       <description></description>
     </item>
     
