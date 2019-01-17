@@ -6,10 +6,19 @@
     <description>Recent content on Батжаагийн булан</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Dec 2018 10:03:34 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Apr 2018 19:29:17 -0700</lastBuildDate>
     
 	<atom:link href="/mn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quartzy, Inc</title>
+      <link>/mn/experiences/quartzy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mn/experiences/quartzy/</guid>
+      <description> Хэрэглэгчид талын веб програмыг хөгжүүлэх Хэрэглэгчийн талын програм хангамжийг хөгжүүлэх хэрэглүүрүүд болон хөгжүүлэлтийн автоматжуулалтыг сайжруулах Маркетинг болон борлуулалтанд ашигладаг гуравдагч талын програм хангамжуудыг хариуцаж өөрсдийн бүтээгдэхүүнтэй нэгдүүлэх  </description>
+    </item>
     
     <item>
       <title>Дэлхиигээр аялагч</title>
@@ -18,6 +27,15 @@
       
       <guid>/mn/iam/world-wanderer/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Fieldbook, Inc</title>
+      <link>/mn/experiences/fieldbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mn/experiences/fieldbook/</guid>
+      <description> Бүтээгдэхүүн шинэчлэх, нэмэлт боломжуулыг хөгжүүлэх Програм хангамжийн хурдыг сааруулж байсан хэд хэдэн алдаануудыг засч ерөнхий хурдыг 2 дахин нэмэгдүүлсэн Документыг веб бус орчинд боловсруулах ажиллагч зангилаануудыг микро сервист нэмсэн Хуучин кодыг засч сэргээснээр тестүүдийг илүү найдвартай болгож багийн ажиллах хурдыг нэмэгдүүлсэн  </description>
     </item>
     
     <item>
@@ -30,6 +48,15 @@
     </item>
     
     <item>
+      <title>Orbit Systems, Inc</title>
+      <link>/mn/experiences/orbit-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mn/experiences/orbit-systems/</guid>
+      <description> Бүх веб хөтөч дээр алдаагүй ажиллах прожект удирдлагын програм 3 хүний баг удирдаж хөгжүүлсэн Өмнөх хувилбараас 5 дахин хурдан, илүү үзэмжтэй бөгөөд эцсийн хэрэглэгч хэрэглэхэд хялбар байхаар тооцоолж хийсэн Веб сокет ашиглаж real­time шинэчлэл хийгдэнэ JEE, Spring framework, Hibernate­ийг Oracle өгөгдлийн сантай холбож Bootstrap болон AngularJS хэрэглэгчийн талын програмд ашигласан  </description>
+    </item>
+    
+    <item>
       <title>Сүүдэр буулгагч</title>
       <link>/mn/iam/hobbyist-photographer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,12 +66,22 @@
     </item>
     
     <item>
-      <title>Quartzy, Inc</title>
-      <link>/mn/experiences/quartzy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Self-Employed</title>
+      <link>/mn/experiences/self-employed/</link>
+      <pubDate>Wed, 04 Apr 2018 19:29:17 -0700</pubDate>
       
-      <guid>/mn/experiences/quartzy/</guid>
-      <description>Throat singer</description>
+      <guid>/mn/experiences/self-employed/</guid>
+      <description>Designed, developed, and deployed a nationwide Railway Monitoring system using C#, providing efficient solution to share workspace between server-client and data manipulation for better storage. Designed and developed a Loan management system using C# which supports multiple companies loans and different asset types. Designed and developed a stock trading platform in C# while handling full stock portfolio management and numerous calculations of stock market indicators. It uses Java web crawler for tracking stock price.</description>
+    </item>
+    
+    <item>
+      <title>Сошиал медиаг хувийн хөгжилдөө ашигласан туршлагаас</title>
+      <link>/mn/blog/using-sm-to-achieve-my-goals/</link>
+      <pubDate>Thu, 17 Jan 2019 10:03:34 -0500</pubDate>
+      
+      <guid>/mn/blog/using-sm-to-achieve-my-goals/</guid>
+      <description>Удаан хугацаанд бодсоны эцэст сошиал медиаг өөртөө ашигтайгаар ашиглаж болох юм шиг санагдан 2016 оны зун энэхүү жил гаруй үргэлжлэх туршилт эхэлсэн юм. Ингээд Facebook-ийг өөрийгөө дайчлах гол хөшүүргээ болгож, хагас марафонд уралддаг болох зорилго тавьлаа.
+“Ego boost” — Миний бодлоор сошиал медиа бол Эго (Зигмунд Фрейдийн Ид, Эго ба Суперэго)-гоо идээшүүлэх буюу өөрийгөө гайхуулж болох маш том талбар. Ойр ойрхон хугацаанд лайк, коммент хүсэмжилж Facebook-т өөрийн гүйсэн зам, хурдаа бусадтай хуваалцдаг байв.</description>
     </item>
     
     <item>
@@ -65,24 +102,6 @@
       
       <guid>/mn/educations/must-bachelor/</guid>
       <description>Thesis: Nulla, Omnis Vitae Illum Molestiae Rem</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/mn/blog/one-bag-travel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/mn/blog/one-bag-travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/mn/blog/one-bag-travel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/mn/blog/one-bag-travel/</guid>
-      <description></description>
     </item>
     
     <item>

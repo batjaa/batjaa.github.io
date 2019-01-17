@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Батжаагийн булан</title>
-    <link>/mn/blog/</link>
-    <description>Recent content in Blogs on Батжаагийн булан</description>
+    <title>Онцлох on Батжаагийн булан</title>
+    <link>/mn/categories/%D0%BE%D0%BD%D1%86%D0%BB%D0%BE%D1%85/</link>
+    <description>Recent content in Онцлох on Батжаагийн булан</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Jan 2019 10:03:34 -0500</lastBuildDate>
     
-	<atom:link href="/mn/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mn/categories/%D0%BE%D0%BD%D1%86%D0%BB%D0%BE%D1%85/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

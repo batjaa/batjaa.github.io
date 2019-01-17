@@ -72,10 +72,30 @@
   
   <url>
     <loc>/experiences/fieldbook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="/mn/experiences/fieldbook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/experiences/fieldbook/"
+                />
   </url>
   
   <url>
     <loc>/experiences/orbit-systems/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="/mn/experiences/orbit-systems/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/experiences/orbit-systems/"
+                />
   </url>
   
   <url>
@@ -95,16 +115,16 @@
   <url>
     <loc>/experiences/self-employed/</loc>
     <lastmod>2018-04-04T19:29:17-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/lifestyle/how-to-use-social-media-to-hit-your-goal/</loc>
-    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/lifestyle/4-am/</loc>
-    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="mn"
+                href="/mn/experiences/self-employed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/experiences/self-employed/"
+                />
   </url>
   
   <url>
@@ -123,38 +143,8 @@
   </url>
   
   <url>
-    <loc>/blog/one-bag-travel/</loc>
-    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="mn"
-                href="/mn/blog/one-bag-travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/one-bag-travel/"
-                />
-  </url>
-  
-  <url>
     <loc>/portfolio/gertee/</loc>
     <lastmod>2018-12-27T10:02:56-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/one-bag-travel/</loc>
-    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="mn"
-                href="/mn/blog/one-bag-travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/one-bag-travel/"
-                />
   </url>
   
   <url>
@@ -168,13 +158,8 @@
   </url>
   
   <url>
-    <loc>/blog/lifestyle/i-live-in-my-van-2/</loc>
-    <lastmod>2018-04-04T19:29:17-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -224,7 +209,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -289,16 +274,6 @@
     <loc>/categories/featured/</loc>
     <lastmod>2018-12-27T10:03:34-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="mn"
-                href="/mn/categories/featured/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/featured/"
-                />
   </url>
   
   <url>
@@ -315,18 +290,8 @@
   
   <url>
     <loc>/categories/lifestyle/</loc>
-    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+    <lastmod>2018-12-27T10:03:34-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="mn"
-                href="/mn/categories/lifestyle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/lifestyle/"
-                />
   </url>
   
   <url>
@@ -380,7 +345,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-12-27T23:20:27-05:00</lastmod>
+    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -392,12 +357,6 @@
                 hreflang="en"
                 href="/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>/categories/travel/</loc>
-    <lastmod>2018-12-27T10:02:56-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
