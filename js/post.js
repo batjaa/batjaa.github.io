@@ -5,8 +5,8 @@ window.postLoad = function() {
   
     const googleMapsSettings = {
       styled: true,
-      latitude: 39.9777792,
-      longitude: -74.9617152,
+      latitude: 49.38638,
+      longitude: 7.45852,
       zoom: 8,
       hue: primaryColor.toRgbaString(),
       gamma: 1.75,
