@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on Батжаагийн булан</title>
+    <link>/mn/categories/featured/</link>
+    <description>Recent content in Featured on Батжаагийн булан</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Dec 2018 10:03:34 -0500</lastBuildDate>
+    
+	<atom:link href="/mn/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Би машиндаа амьдардаг</title>
+      <link>/mn/blog/i-live-in-my-van/</link>
+      <pubDate>Thu, 27 Dec 2018 10:03:34 -0500</pubDate>
+      
+      <guid>/mn/blog/i-live-in-my-van/</guid>
+      <description>Машиндаа амьдарч эхэлснээс хойш жил өнгөрч ээ.
+Анхандаа эргэн тойрнынхноосоо санаа зовох мэдрэмж төрдөг байлаа, хүн бүхэн энгийн мэтээр хүлээж авахгүй, “Айн” гээд нэг хөмсгөө өргөөд том нүдэлж харна, олон юм асууна. Одоо ч дасчихсан болоод тэр үү, эргэн тойрнынхон ихэнхи нь мэддэг болчихсон болоод ч тэр үү гайгүй.
+Цахим ертөнц, техник технологи хөгжихийн хирээр хүмүүсийн “энгийн” ажлын хэв маяг их өөрчлөгдөх болсон. Зарим нэг нь энэ бүхнээс салж холдохын хүслэн болж, зарим нэгэнд нь энэ нь хэвийн амьдралаа өөрчилж өөр зүйлс туршиж үзэх боломжийг олгоно.</description>
+    </item>
+    
+  </channel>
+</rss>
